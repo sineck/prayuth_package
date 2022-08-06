@@ -1,7 +1,7 @@
 from setuptools import setup,find_packages
  
 setup(name='prayuth_package',
-      version='0.1',
+      version='0.2',
       description='This is prayuth_package.',
       url='https://github.com/sineck/prayuth_package.git',
       author='Pornchai_A',
