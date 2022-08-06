@@ -8,6 +8,6 @@ setup(name='prayuth_package',
       author_email='pornchai.puj@gmail.com',
       license='MIT',
       packages=find_packages(),
-      install_requires= ['numpy','pandas'],
+      install_requires= ['numpy','pandas==1.3.5'],
       python_requires='>=3.8',
       zip_safe=False)
